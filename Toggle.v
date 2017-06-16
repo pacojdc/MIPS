@@ -1,4 +1,4 @@
-// This dile is to toggle
+// This file is to toggle a bit for clock
 module Toggle
 (
 	// Input Ports
